@@ -1,0 +1,11 @@
+body {
+  font-family: "Nunito", sans-serif !important;
+  min-height: 100vh;
+}
+button {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.h-90-vh {
+  height: 90vh !important;
+}
